@@ -3,12 +3,16 @@
 #include <windows.h>
 #include <conio.h>
 #include "Fonctions.h"
+#include <time.h>
+#include <string.h>
 
 
 int main()
 {
-    initializeFile();
-    signorlogin();
-     //menusalles();
+    int i=0;
+     initializeFile();
+    //DebutSemaine();
+     signorlogin();
+     //remove("CodesAdmin.DAT");
     return 0;
 }
