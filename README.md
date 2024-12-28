@@ -1,7 +1,9 @@
 Salle Management Project in C 🚀
 
 The Salle Management Project is a console-based application developed in C to manage the reservation of salles (halls or venues) for both students 🎓 and administrators 🖥️. The project is designed with two distinct user spaces: one for students and another for administrators. Each space has specific functionalities and access levels, ensuring a secure and organized system for managing reservations. 🔒✨
-Key Features 🔑
+
+--> Key Features 🔑 :
+
 Student Space 🎓
 
     Night Reservations 🌙
